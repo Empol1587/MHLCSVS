@@ -1,28 +1,28 @@
 TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Parent Team 4;Parent Team 5;Parent Team 6;Parent Team 7;Parent Team 8;Primary Color;Secondary Color;Text Color;Conference Id;Division Id
-0;0;Montreal;Canadiens;MTL;-1;-1;-1;-1;-1;-1;-1;-1;#c60000;#0031ad;#fefef4;0;1
+0;0;Montreal;Canadiens;MTL;-1;-1;-1;-1;-1;-1;-1;-1;#c60000;#0031ad;#fefef4;1;0
 1;0;Toronto;Maple Leafs;TOR;-1;-1;-1;-1;-1;-1;-1;-1;#000084;#000084;#fefef4;0;0
-2;0;Seattle;Spitfires;SEAS;-1;-1;-1;-1;-1;-1;-1;-1;#8b0000;#000000;#ffc000;1;0
+2;0;Seattle;Spitfires;SEAS;-1;-1;-1;-1;-1;-1;-1;-1;#8b0000;#000000;#ffc000;1;1
 3;0;Calgary;Flames;CGY;-1;-1;-1;-1;-1;-1;-1;-1;#c62100;#000000;#ffc758;1;0
-7;0;Dallas;Stars;DAL;-1;-1;-1;-1;-1;-1;-1;-1;#01865b;#000000;#c0c0c0;1;0
+7;0;Dallas;Stars;DAL;-1;-1;-1;-1;-1;-1;-1;-1;#01865b;#000000;#c0c0c0;0;1
 8;0;Anchorage;Aurora;ANC;-1;-1;-1;-1;-1;-1;-1;-1;#6f80d4;#00ea8d;#ffffff;1;1
-9;0;Pittsburgh;Penguins;PIT;-1;-1;-1;-1;-1;-1;-1;-1;#ffb81c;#000000;#fefef4;1;0
-10;0;St. Louis;Blues;STL;-1;-1;-1;-1;-1;-1;-1;-1;#0072ce;#ffb81c;#ffffff;0;1
-12;0;Vancouver;Canucks;VAN;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ff2100;#ffc600;1;1
-14;0;New York;Islanders;NYI;-1;-1;-1;-1;-1;-1;-1;-1;#00529b;#f57d31;#fefef4;0;1
-17;0;Edmonton;Oilers;EDM;-1;-1;-1;-1;-1;-1;-1;-1;#002776;#ff6319;#fefef4;1;1
-18;0;Albuquerque;Turkeys;ABQ;-1;-1;-1;-1;-1;-1;-1;-1;#12adf0;#000000;#fefef4;1;0
+9;0;Pittsburgh;Penguins;PIT;-1;-1;-1;-1;-1;-1;-1;-1;#ffb81c;#000000;#fefef4;0;0
+10;0;St. Louis;Blues;STL;-1;-1;-1;-1;-1;-1;-1;-1;#0072ce;#ffb81c;#ffffff;0;0
+12;0;Vancouver;Canucks;VAN;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#ff2100;#ffc600;0;1
+14;0;New York;Islanders;NYI;-1;-1;-1;-1;-1;-1;-1;-1;#00529b;#f57d31;#fefef4;1;1
+17;0;New Jersey;Devils;NJ;-1;-1;-1;-1;-1;-1;-1;-1;#ce1126;#000000;#fefef4;1;1
+18;0;Albuquerque;Turkeys;ABQ;-1;-1;-1;-1;-1;-1;-1;-1;#12adf0;#000000;#fefef4;0;1
 19;0;Colorado;Avalanche;COL;-1;-1;-1;-1;-1;-1;-1;-1;#8b2942;#01548a;#a9b0b8;1;1
 20;0;Phoenix;Coyotes;PHX;-1;-1;-1;-1;-1;-1;-1;-1;#8c2633;#000000;#e2d6b5;0;0
-21;0;Quebec;Nordiques;QUE;-1;-1;-1;-1;-1;-1;-1;-1;#005eb8;#da291c;#fefef4;0;0
-23;0;Prince Albert;Timbers;PAT;-1;-1;-1;-1;-1;-1;-1;-1;#0e6b3a;#f9e30a;#fefef4;0;1
-24;0;Anaheim;Ducks;ANA;-1;-1;-1;-1;-1;-1;-1;-1;#f47a38;#b9975b;#ffffff;1;1
-25;0;Minnesota;Wild;MINN;-1;-1;-1;-1;-1;-1;-1;-1;#049234;#fcce04;#ffffff;0;0
-26;0;Pawtucket;Patriots;PAW;-1;-1;-1;-1;-1;-1;-1;-1;#d62530;#496577;#0c1014;0;1
+21;0;Quebec;Nordiques;QUE;-1;-1;-1;-1;-1;-1;-1;-1;#005eb8;#da291c;#fefef4;0;1
+23;0;Prince Albert;Timbers;PAT;-1;-1;-1;-1;-1;-1;-1;-1;#0e6b3a;#f9e30a;#fefef4;0;0
+24;0;Anaheim;Ducks;ANA;-1;-1;-1;-1;-1;-1;-1;-1;#f47a38;#b9975b;#ffffff;0;0
+25;0;Minnesota;Wild;MINN;-1;-1;-1;-1;-1;-1;-1;-1;#049234;#fcce04;#ffffff;1;0
+26;0;Victoria;Admirals;VIC;-1;-1;-1;-1;-1;-1;-1;-1;#d62530;#496577;#0c1014;1;1
 27;0;Louisiana;Reapers;NOLA;-1;-1;-1;-1;-1;-1;-1;-1;#4e0278;#cd12bd;#fffff6;1;0
-28;0;Los Angeles;Kings;LAK;-1;-1;-1;-1;-1;-1;-1;-1;#270677;#000000;#a2aaad;1;1
+28;0;Chicago;Reign;CHR;-1;-1;-1;-1;-1;-1;-1;-1;#7fa9d1;#012853;#ffffff;1;0
 29;0;Hartford;Whalers;HFD;-1;-1;-1;-1;-1;-1;-1;-1;#046a38;#00205b;#fefefe;0;1
-30;0;Vegas;Golden Knights;VGK;-1;-1;-1;-1;-1;-1;-1;-1;#85714d;#000000;#fefef4;0;0
-31;0;Atlanta;Thrashers;ATL;-1;-1;-1;-1;-1;-1;-1;-1;#436cb3;#041e42;#ffa300;1;1
+30;0;Vegas;Golden Knights;VGK;-1;-1;-1;-1;-1;-1;-1;-1;#85714d;#000000;#fefef4;1;1
+31;0;Atlanta;Thrashers;ATL;-1;-1;-1;-1;-1;-1;-1;-1;#436cb3;#041e42;#ffa300;1;0
 32;1;Red Deer;River Sturgeon;RED;23;-1;-1;-1;-1;-1;-1;-1;#ba0f31;#000000;#a9a8ac;0;1
 33;1;Manitoba;Moose;MAN;29;-1;-1;-1;-1;-1;-1;-1;#041e42;#a8a9ad;#fefef4;0;1
 34;1;Abbotsford;Heat;ABB;2;-1;-1;-1;-1;-1;-1;-1;#000000;#ffb81c;#fefef4;0;0
@@ -53,7 +53,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 67;3;Saskatoon;Blades;SAS;-1;-1;-1;-1;-1;-1;-1;-1;#003e7e;#003e7e;#fefef4;0;0
 68;3;Swift Current;Broncos;SWI;-1;-1;-1;-1;-1;-1;-1;-1;#0039a6;#0039a6;#c0c0c0;0;1
 69;3;Calgary;Hitmen;CAL;-1;-1;-1;-1;-1;-1;-1;-1;#e13a3a;#e13a3a;#000000;0;1
-70;3;Edmonton;Oil Kings;EDM;-1;-1;-1;-1;-1;-1;-1;-1;#00529b;#ffc726;#fefef4;0;1
+70;3;Edmonton;Oil Kings;OIL;-1;-1;-1;-1;-1;-1;-1;-1;#00529b;#ffc726;#fefef4;0;1
 71;3;Wenatchee;Wild;WTC;-1;-1;-1;-1;-1;-1;-1;-1;#002b88;#000000;#fefef4;1;1
 72;3;Lethbridge;Hurricanes;LET;-1;-1;-1;-1;-1;-1;-1;-1;#cf142b;#cf142b;#fefef4;0;1
 73;3;Medicine Hat;Tigers;MED;-1;-1;-1;-1;-1;-1;-1;-1;#f87a36;#f87a36;#000000;0;1
@@ -61,7 +61,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 75;3;Kamloops;Blazers;KAM;-1;-1;-1;-1;-1;-1;-1;-1;#08007b;#ff6200;#fefef4;1;0
 76;3;Kelowna;Rockets;KEL;-1;-1;-1;-1;-1;-1;-1;-1;#008394;#e13a3e;#fefef4;1;0
 77;3;Prince George;Cougars;PRG;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#9e7053;#c60c30;1;0
-78;3;Vancouver;Giants;VAN;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c60c30;#c0c0c0;1;0
+78;3;Vancouver;Giants;VANG;-1;-1;-1;-1;-1;-1;-1;-1;#000000;#c60c30;#c0c0c0;1;0
 79;3;Victoria;Royals;VIC;-1;-1;-1;-1;-1;-1;-1;-1;#4169e1;#c0c0c0;#fefef4;1;0
 80;3;Everett;Silvertips;EVE;-1;-1;-1;-1;-1;-1;-1;-1;#005931;#c0c0c0;#fefef4;1;1
 81;3;Portland;Winterhawks;POR;-1;-1;-1;-1;-1;-1;-1;-1;#c60c30;#000000;#fefef4;1;1
@@ -97,7 +97,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 111;4;Shawinigan;Cataractes;SHA;-1;-1;-1;-1;-1;-1;-1;-1;#083461;#fac527;#fefef4;-1;1
 112;4;Baie-Comeau;Drakkar;BAC;-1;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#ffcd07;#231f20;-1;1
 113;4;Chicoutimi;Saguenéens;CHI;-1;-1;-1;-1;-1;-1;-1;-1;#043264;#4c92db;#fefef4;-1;1
-114;4;Québec;Remparts;QUE;-1;-1;-1;-1;-1;-1;-1;-1;#d41f32;#1c170d;#fefef4;-1;1
+114;4;Québec;Remparts;QUER;-1;-1;-1;-1;-1;-1;-1;-1;#d41f32;#1c170d;#fefef4;-1;1
 115;4;Rimouski;Océanic;RIM;-1;-1;-1;-1;-1;-1;-1;-1;#18124b;#adb8c0;#fefef4;-1;1
 116;4;Acadie-Bathurst;Titan;ACA;-1;-1;-1;-1;-1;-1;-1;-1;#98002d;#cfaa79;#fefef4;-1;2
 117;4;Cape Breton;Eagles;CAP;-1;-1;-1;-1;-1;-1;-1;-1;#1c1a1c;#fabd04;#fefef4;-1;2
@@ -107,7 +107,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 121;4;Saint John;Sea Dogs;SNB;-1;-1;-1;-1;-1;-1;-1;-1;#004c96;#131313;#fefef4;-1;2
 122;4;Sherbrooke;Phoenix;SHE;-1;-1;-1;-1;-1;-1;-1;-1;#04225c;#04225c;#fefef4;-1;0
 123;1;Atlanta;Firebirds;ATF;31;-1;-1;-1;-1;-1;-1;-1;#a1a9ad;#000000;#ffffff;1;0
-124;0;Mexico City;Cartel;MEX;-1;-1;-1;-1;-1;-1;-1;-1;#0e9553;#fd193c;#ffffff;0;0
+124;0;Mexico City;Cartel;MEX;-1;-1;-1;-1;-1;-1;-1;-1;#0e9553;#fd193c;#ffffff;0;1
 125;1;Costa Rica;Skates;CRS;124;-1;-1;-1;-1;-1;-1;-1;#192753;#8ecef0;#ffffff;1;1
 126;5;Springfield;Ice-O-Topes;ICE;124;-1;-1;-1;-1;-1;-1;-1;#ffc535;#072143;#ffffff;0;0
 127;5;Augusta;Lynx;LYNX;31;-1;-1;-1;-1;-1;-1;-1;#0097d5;#a8afb5;#ffffff;0;0
@@ -137,3 +137,6 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 151;5;Danbury;Trashers;TRAS;152;-1;-1;-1;-1;-1;-1;-1;#232022;#0954a4;#ffffff;1;1
 152;0;Kansas City;Scouts;KCS;-1;-1;-1;-1;-1;-1;-1;-1;#091f40;#e22726;#ffffff;0;1
 153;1;Kansas City;Mavericks;KCM;152;-1;-1;-1;-1;-1;-1;-1;#ef4923;#e6e6e6;#ffffff;0;1
+154;0;Bismarck;Jagers;BMJ;-1;-1;-1;-1;-1;-1;-1;-1;#1a4a4e;#de8b46;#ffffff;1;0
+155;1;Bismarck;AHL;LOS;154;-1;-1;-1;-1;-1;-1;-1;#233f94;#ef4923;#ffffff;1;0
+156;5;Bismarck;JHL;SAN;154;-1;-1;-1;-1;-1;-1;-1;#791730;#fcb713;#ffffff;1;0
