@@ -93,7 +93,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 107;4;Rouyn-Noranda;Huskies;ROU;-1;-1;-1;-1;-1;-1;-1;-1;#ec1a2c;#241e24;#fefef4;-1;0
 108;4;Val-d'Or;Foreurs;VDO;-1;-1;-1;-1;-1;-1;-1;-1;#0b5a42;#ddb425;#fefef4;-1;0
 109;4;Drummondville;Voltigeurs;DRU;-1;-1;-1;-1;-1;-1;-1;-1;#c4222c;#131313;#fefef4;-1;0
-110;4;Victoriaville;Tigres;VIC;-1;-1;-1;-1;-1;-1;-1;-1;#231f20;#fdb827;#fefef4;-1;1
+110;4;Victoriaville;Tigres;VICT;-1;-1;-1;-1;-1;-1;-1;-1;#231f20;#fdb827;#fefef4;-1;1
 111;4;Shawinigan;Cataractes;SHA;-1;-1;-1;-1;-1;-1;-1;-1;#083461;#fac527;#fefef4;-1;1
 112;4;Baie-Comeau;Drakkar;BAC;-1;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#ffcd07;#231f20;-1;1
 113;4;Chicoutimi;Saguenéens;CHI;-1;-1;-1;-1;-1;-1;-1;-1;#043264;#4c92db;#fefef4;-1;1
