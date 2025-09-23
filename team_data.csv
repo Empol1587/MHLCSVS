@@ -36,7 +36,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 45;1;Ontario;Reign;ONT;28;-1;-1;-1;-1;-1;-1;-1;#250e62;#000000;#c69214;1;1
 47;1;Laval;Rocket;LAV;0;-1;-1;-1;-1;-1;-1;-1;#a6192e;#012169;#fefef4;0;1
 48;1;Bridgeport;Islanders;BRI;14;-1;-1;-1;-1;-1;-1;-1;#003087;#e03c31;#fefef4;0;0
-50;1;Quahog;Griffins;GRIF;26;-1;-1;-1;-1;-1;-1;-1;#940021;#072336;#fbf3c6;0;1
+50;1;Nanaimo;Buccaneers;BUCC;26;-1;-1;-1;-1;-1;-1;-1;#940021;#072336;#fbf3c6;0;1
 53;1;Nuuk;Nukissiuutit;NUUK;8;-1;-1;-1;-1;-1;-1;-1;#d1221d;#ffffff;#000000;1;0
 54;1;Meramec;Sharks;MER;10;-1;-1;-1;-1;-1;-1;-1;#204d9e;#9cc7b4;#fefef4;0;0
 55;1;Moxham;Ninjas;MOX;9;-1;-1;-1;-1;-1;-1;-1;#000000;#ae0001;#720000;0;0
@@ -116,7 +116,7 @@ TeamId;LeagueId;Name;Nickname;Abbr;Parent Team 1;Parent Team 2;Parent Team 3;Par
 130;5;Belleville;Blades;BLV;14;-1;-1;-1;-1;-1;-1;-1;#cb0729;#2e2926;#ffffff;0;0
 131;5;Toronto;ë@$’I$’M@’I$’I&;TORE;1;-1;-1;-1;-1;-1;-1;-1;#f0f1f3;#fafbfd;#808b91;0;0
 132;5;Amherst;Ramblers;RAMB;12;-1;-1;-1;-1;-1;-1;-1;#422581;#ffffff;#000000;0;1
-133;5;Cranston;Golden Hawks;HAWK;26;-1;-1;-1;-1;-1;-1;-1;#f1c434;#221f1f;#ec1b23;0;1
+133;5;Oceanside;Generals;OCEA;26;-1;-1;-1;-1;-1;-1;-1;#f1c434;#221f1f;#ec1b23;0;1
 134;5;Laval;Voisins;VOI;21;-1;-1;-1;-1;-1;-1;-1;#582e68;#333967;#ffffff;0;1
 135;5;Arizona;Outlaws;OUT;2;-1;-1;-1;-1;-1;-1;-1;#ed1c24;#231f20;#ffffff;0;1
 136;5;Lindberg;Flyers;FLY;10;-1;-1;-1;-1;-1;-1;-1;#009900;#ffcc00;#ffffff;0;1
