@@ -397,7 +397,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 395;111;Ray;Edwards;;1970-6-11;Hanover;ON;Canada;;;0
 396;-1;Brad;Treliving;;1969-8-18;Penticton;BC;Canada;;;0
 397;30;Bruce;Cassidy;;1965-5-20;Ottawa;ON;Canada;;;0
-398;133;Chris;Taylor;;1972-3-6;Stratford;ON;Canada;;;0
+398;-1;Chris;Taylor;;1972-3-6;Stratford;ON;Canada;;;0
 399;133;Nolan;Pratt;;1975-8-14;Fort McMurray;AB;Canada;;;0
 400;12;Jon;Sanderson;;1970-1-1;Port Coquitlam;BC;Canada;;;0
 401;-1;Rob;Zettler;;1968-3-8;Sept-Îles;QC;Canada;;;0
@@ -632,7 +632,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 630;1;Paul;Ayotte;;1972-1-1;Winnipeg;MB;Canada;;;0
 631;72;Ryan;Hamilton;;1970-3-11;Truro;NS;Canada;;;0
 632;-1;Brett;Stewart;;1982-7-7;Coral Springs;FL;The United States;;;0
-633;-1;Matt;Ellis;;1981-8-31;New Brighton;MN;The United States;;;0
+633;133;Matt;Ellis;;1981-8-31;New Brighton;MN;The United States;;;0
 634;66;Ville;Virta;;1965-11-7;Vantaa;UUS;Finland;;;0
 635;-1;Jussi;Kari-Koskinen;;1978-9-6;Hämeenlinna;KAN;Finland;;;0
 636;78;Patrick;Lachance;;1970-1-1;Quebec City;QC;Canada;;;0
@@ -1018,7 +1018,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1016;-1;Rick;St. Croix;;1955-1-3;Kenora;ON;Canada;;;1
 1017;43;Pascal;Vincent;;1971-9-22;Laval;QC;Canada;;;0
 1018;-1;Charlie;Huddy;;1959-6-2;Oshawa;ON;Canada;;;1
-1019;133;Wade;Flaherty;;1968-1-11;Terrace;BC;Canada;;;0
+1019;-1;Wade;Flaherty;;1968-1-11;Terrace;BC;Canada;;;0
 1020;3;Peter;Dineen;;1960-11-19;Kingston;ON;Canada;;;0
 1021;-1;Sam;McMaster;;1936-4-15;Vancouver;BC;Canada;;;1
 1022;3;Greg;Drechsel;;1965-1-1;Potsdam;NY;The United States;;;0
@@ -1133,7 +1133,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1131;-1;Mark;White;;1978-2-7;Woburn;MA;The United States;;;0
 1132;-1;Dave;Peters;;1960-1-1;Portland;OR;The United States;;;1
 1133;-1;Seth;Appert;;1974-8-9;Cottage Grove;WI;The United States;;;0
-1134;47;Martin;Laperrière;;1974-12-13;Montreal;QC;Canada;;;0
+1134;-1;Martin;Laperrière;;1974-12-13;Montreal;QC;Canada;;;0
 1135;58;Joël;Bouchard;;1974-1-23;Montreal;QC;Canada;;;0
 1136;-1;Jay;Varady;;1977-9-10;Cahokia;IL;The United States;;;0
 1137;154;Kris;Knoblauch;;1978-9-24;Imperial;SK;Canada;;;0
@@ -1602,7 +1602,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1600;73;Darrell;Maser;;1964-1-1;Medicine Hat;AB;Canada;;;0
 1601;64;Chad;Taylor;;1972-8-18;Regina;SK;Canada;;;0
 1602;-1;Mark;O'Leary;;1985-1-21;Owen Sound;ON;Canada;;;0
-1603;64;Alan;Millar;;1963-1-1;Milton;ON;Canada;;;0
+1603;-1;Alan;Millar;;1963-1-1;Milton;ON;Canada;;;0
 1604;-1;Rob;Maclachlan;;1957-1-1;Moose Jaw;SK;Canada;;;1
 1605;-1;Doug;Gasper;;1947-1-1;Rosetown;SK;Canada;;;1
 1606;-1;Bob;Bartlett;;1940-1-1;Edmonton;AB;Canada;;;1
@@ -1698,7 +1698,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1696;67;Mike;Priestner;;1984-1-8;London;ON;Canada;;;0
 1697;-1;Dean;Brockman;;1960-12-24;Humboldt;SK;Canada;;;1
 1698;53;Tim;Cheveldae;;1968-2-15;Melville;SK;Canada;;;0
-1699;-1;Dan;Tencer;;1986-1-12;Edmonton;AB;Canada;;;0
+1699;147;Dan;Tencer;;1986-1-12;Edmonton;AB;Canada;;;0
 1700;68;Kerry;Gladson;;1979-8-19;Burnaby;BC;Canada;;;0
 1701;67;Randy ;Pearce;;1966-6-17;Calgary;AB;Canada;;;0
 1702;67;Joe;Jacobs;;1985-4-24;Calgary;AB;Canada;;;0
@@ -1842,7 +1842,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 1840;81;Brian;Flowers;;1979-8-29;Marion;IN;The United States;;;0
 1841;81;John;Gill;;1985-2-27;Henderson;NV;The United States;;;0
 1842;-1;Andrew;Linden;;1973-11-22;Saanich;BC;Canada;;;0
-1843;47;Dominique;Ducharme;;1973-3-12;Joliette;QC;Canada;;;0
+1843;-1;Dominique;Ducharme;;1973-3-12;Joliette;QC;Canada;;;0
 1844;-1;Paul;Mulcahy;;1977-12-8;Osoyoos;BC;Canada;;;0
 1845;115;Paul;McGuinty;;1969-11-16;Halton Hills;ON;Canada;;;0
 1846;-1;Nolan;Leonhard;;1969-3-6;Mission;BC;Canada;;;0
@@ -2290,7 +2290,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 2288;83;Dean;Viste;;1968-1-1;Hanna;AB;Canada;;;0
 2289;84;Dennis;Loman;;1959-1-1;Kennewick;WA;The United States;;;0
 2290;-1;Bob;Tory;;1957-1-1;Edmonton;AB;Canada;;;1
-2291;147;Dino;Caputo;;1973-6-19;Calgary;AB;Canada;;;0
+2291;-1;Dino;Caputo;;1973-6-19;Calgary;AB;Canada;;;0
 2292;-1;Kevin;Eggum;;1960-1-1;Saskatoon;SK;Canada;;;1
 2293;84;Nathan;Hays;;1960-12-24;Saanich;BC;Canada;;;0
 2294;84;Percy;Kosak;;1960-12-24;Edmonton;AB;Canada;;;0
@@ -2321,7 +2321,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 2319;-1;Murray;Hiebert;;1960-1-1;Ottawa;ON;Canada;;;1
 2320;-1;Dale;Hunter;;1960-7-31;Petrolia;ON;Canada;;;1
 2321;98;Mark;Hunter;;1962-11-12;Petrolia;ON;Canada;;;0
-2322;-1;James;Boyd;;1976-2-13;Mississauga;ON;Canada;;;0
+2322;64;James;Boyd;;1976-2-13;Mississauga;ON;Canada;;;0
 2323;90;Marty;Williamson;;1963-5-2;Markham;ON;Canada;;;0
 2324;-1;Jim;Mancuso;;1960-1-1;London;ON;Canada;;;1
 2325;-1;Dave;Franco;;1960-1-1;Sault Ste. Marie;ON;Canada;;;1
@@ -3546,7 +3546,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 3544;-1;Craig;Anderson;;1982-11-3;Kempele;NOS;Finland;;;0
 3545;-1;Ryan;Brannen;;1959-3-28;Toronto;ON;Canada;;;1
 3546;33;Martin;Angiolella;;1983-9-12;Thornhill;ON;Canada;;;0
-3547;47;Ben;Strand;;1977-8-14;Kitchener;ON;Canada;;;0
+3547;-1;Ben;Strand;;1977-8-14;Kitchener;ON;Canada;;;0
 3548;-1;Matt;Bartkowski;;1988-6-4;Pittsburgh;PA;The United States;;;0
 3549;-1;Duncan;Keith;;1983-7-16;Winnipeg;MB;Canada;England;;0
 3550;-1;Joakim;Nordström;;1992-2-25;Stockholm;STO;Sweden;;;0
@@ -4907,3 +4907,12 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 4905;-1;Tyler;Stafford;;1986-4-4;Milwaukee;WI;The United States;;;0
 4906;-1;Dustin;Young;;1984-7-13;Carrollton;TX;The United States;;;0
 4907;40;Russ;O'Dugan;;1969-1-24;Warrensburg;MO;The United States;;;0
+4908;133;Dylan;McLaughlin;;1984-4-28;Shenandoah;LA;The United States;;;0
+4909;-1;Todd;Morrow;;1969-3-12;Asheville;NC;The United States;;;0
+4910;133;William;Price;;1961-7-15;Albuquerque;NM;The United States;;;0
+4911;-1;Stanley;Farthing;;1968-5-19;Hamilton;ON;Canada;;;0
+4912;-1;Mark;Burton;;1972-6-6;Fairview;GA;The United States;;;0
+4913;-1;Payton;Folkes;;1965-4-30;Ottawa;ON;Canada;;;0
+4914;47;Terry;Garey;;1964-6-12;Watts Mills;SC;The United States;;;0
+4915;47;Lucas;Dubois;;1964-3-6;Longueuil;QC;Canada;;;0
+4916;47;Brad;Goodfellow;;1983-12-31;Delta;BC;Canada;;;0
