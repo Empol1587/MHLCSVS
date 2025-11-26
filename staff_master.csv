@@ -447,7 +447,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 445;3;Jussi;Parkkila;;1977-5-13;Tampere;PIR;Finland;;;0
 446;-1;Buddy;Powers;;1953-1-1;Brooklyn;NY;The United States;;;1
 447;10;David;Alexander;;1984-1-1;Moncton;NB;Canada;;;0
-448;-1;Ian;Meagher;;1989-6-27;Montreal;QC;Canada;;;0
+448;137;Ian;Meagher;;1989-6-27;Montreal;QC;Canada;;;0
 449;58;Angelo;Nasato;;1960-12-24;Mississauga;ON;Canada;;;0
 450;-1;Bob;Wetick;;1960-1-1;Toronto;ON;Canada;;;1
 451;114;Scott;Walker;;1973-7-19;Cambridge;ON;Canada;;;0
@@ -2535,7 +2535,7 @@ StaffId;TeamId;First Name;Last Name;Nick Name;Date Of Birth;Birthcity;Birthstate
 2533;95;Dan;Peters;;1970-1-1;Pomona;CA;The United States;;;0
 2534;95;Jason;Harakal;;1970-1-1;Halifax;NS;Canada;;;0
 2535;95;Joe;Trentadue;;1970-1-1;Toronto;ON;Canada;;;0
-2536;137;Kiana;Scott;;1999-5-5;Barrie;ON;Canada;;;0
+2536;-1;Kiana;Scott;;1999-5-5;Barrie;ON;Canada;;;0
 2537;128;Adam;Jonak;;1994-7-3;Plzen;PLZ;Czech Republic;;;0
 2538;110;Chad;Wiseman;;1981-3-25;Burlington;ON;Canada;;;0
 2539;120;Corey;Locke;;1984-5-8;Newmarket;ON;Canada;England;;0
